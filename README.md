@@ -426,14 +426,6 @@ Intelligent Full-Stack Systems
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ritesh-022/Ritesh-022/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 # 📌 Current Focus
 
 ```text
