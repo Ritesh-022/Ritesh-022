@@ -180,26 +180,6 @@ AI-powered cybersecurity system for network intrusion detection and incident ana
 
 ---
 
-## 🛰️ GeoShield AI
-
-### Space Weather Intelligence Platform
-
-AI-based platform designed to forecast energetic-electron radiation risks affecting GEO satellites.
-
-**Key Features**
-
-* GOES / WIND space-weather data
-* Multi-horizon forecasting
-* Machine-learning prediction
-* Radiation-risk analysis
-* Explainable AI
-* Early-warning system
-* Satellite-operation decision support
-
-**Tech:** Python • Machine Learning • Time-Series Analysis • XAI
-
----
-
 ## 🌾 AgroDetect AI
 
 ### Plant Disease Detection System
@@ -321,25 +301,6 @@ Personalized AI tutoring platform designed for interactive learning.
 * Multi-subject support
 
 **Tech:** MERN • Ollama • LLMs • AI
-
----
-
-## 🏙️ Smart City — Early Crime Detection
-
-AI-powered smart-city surveillance and incident-analysis platform.
-
-**Key Features**
-
-* YOLO-based detection
-* Camera/IP-camera feeds
-* Automated incident creation
-* Camera-network graph
-* Camera movement analysis
-* Incident dashboard
-* Map visualization
-* Movement prediction
-
-**Tech:** YOLO • React • Node.js • Express • MongoDB • Computer Vision
 
 ---
 
