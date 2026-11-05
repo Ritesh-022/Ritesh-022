@@ -1,371 +1,292 @@
-# Hi 👋, I'm Ritesh B M
+# Ritesh B M
 
 ### AI/ML Engineer · Full-Stack Developer · Generative AI
 
-Computer Science undergraduate at **RNS Institute of Technology**, interested in building AI/ML applications and full-stack systems that solve practical problems.
+Computer Science undergraduate at **RNS Institute of Technology**, focused on engineering intelligent applications through machine learning, generative AI and full-stack development.
 
-My work spans **Machine Learning, Deep Learning, Computer Vision, Generative AI, RAG, Multi-Agent Systems, and Full-Stack Development**.
+I work across the AI development lifecycle — from data processing, model development and experimentation to LLM integration, backend engineering and application development.
 
-<p align="center">
-  <a href="https://github.com/Ritesh-022">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ritesh-b-m-1b6587340/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rithesh22102006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+My interests lie in building practical, research-driven software systems that combine intelligent models with reliable engineering.
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Pursuing B.E. in Computer Science Engineering at **RNS Institute of Technology**
-- 🥇 **1st Position — Signal Quest Hackathon**
-- 🥉 **3rd Place — IEEE Project Ideathon**
-- 🚀 Participated in **10+ hackathons**
-- 🤖 Building applications around Machine Learning, Computer Vision and Generative AI
-- ⚙️ Developing full-stack applications with the MERN ecosystem
-- 🧩 Exploring RAG pipelines, AI agents and multi-agent workflows
-- 🔬 Interested in applied AI, intelligent automation and real-world engineering problems
-
-I enjoy working across the stack — from training and evaluating models to building the APIs, data pipelines and interfaces that make them useful.
+- 🎓 **B.E. Computer Science Engineering** — RNS Institute of Technology
+- 🥇 **1st Place** — Signal Quest Hackathon
+- 🥉 **3rd Place** — IEEE Project Ideathon
+- 🚀 Participated in **10+ hackathons** across AI/ML, software development and IoT.
+- 🤖 Developing applications involving Machine Learning, Computer Vision and Generative AI.
+- 🧠 Exploring RAG architectures, LLM orchestration and multi-agent systems.
+- 🔬 Interested in applied AI research and intelligent software systems.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technical Stack
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" alt="Programming Languages"/>
 </p>
+
+### AI, Machine Learning & Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI and Computer Vision"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/EfficientNet-4B8BBE?style=for-the-badge" alt="EfficientNet"/>
+</p>
+
+**Core Areas:** Classical ML · Deep Learning · CNNs · LSTMs · GRUs · Anomaly Detection · Image Classification · Object Detection · Image Segmentation
+
+### Generative AI & LLM Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ollama" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge" alt="LLaMA"/>
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge" alt="Qwen"/>
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge" alt="RAG"/>
+</p>
+
+**Core Areas:** Retrieval-Augmented Generation · AI Agents · Multi-Agent Systems · LLM Applications · Local LLM Inference
 
 ### Full-Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,fastapi,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,flask,fastapi,vite,tailwind,threejs" alt="Full Stack Technologies"/>
 </p>
 
-`MERN Stack` · `REST APIs` · `Socket.IO` · `Three.js` · `Vite` · `Tailwind CSS`
-
-### Artificial Intelligence & Machine Learning
-
-**Machine Learning**
-
-- Classical ML · Decision Trees · Random Forest
-- Extra Trees · XGBoost · LightGBM
-- Anomaly Detection · Model Evaluation
-
-**Deep Learning**
-
-- CNN · MLP · LSTM · GRU
-- CNN-LSTM · Autoencoders
-- EfficientNet · PyTorch
-
-**Computer Vision**
-
-- YOLOv8 · Object Detection
-- Image Classification · Image Segmentation
-- Image Processing · EfficientNet
-
-### Generative AI & Agentic Systems
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain · LangGraph
-- Multi-Agent Systems · AI Agents
-- Ollama · LLaMA · Qwen
-- Local LLM Inference · Tool-based Workflows
+**Core Areas:** MERN Stack · REST APIs · Backend Development · Socket.IO · API Integration · Real-Time Applications
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" alt="Databases"/>
 </p>
 
 ### DevOps & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,bash,vscode" alt="Developer Tools"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/CodeQL-181717?style=for-the-badge&logo=github&logoColor=white" alt="CodeQL"/>
+  <img src="https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" alt="Dependabot"/>
 </p>
-
-`Docker Compose` · `GitHub Actions` · `Trivy` · `CodeQL` · `npm Audit` · `Dependabot`
 
 ### IoT & Embedded Systems
 
-- ESP32 · Arduino
-- HX711 Load Cells
-- IoT Sensors · Edge AI
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" alt="ESP32"/>
+</p>
+
+**Core Areas:** Embedded Systems · IoT Sensors · Edge AI · Hardware Integration
 
 ---
 
-## 🏆 Achievements
+## Selected Projects
 
-### 🥇 1st Position — Signal Quest Hackathon
+Projects demonstrating the application of AI, machine learning, computer vision and software engineering across different problem domains.
 
-**IEEE Signal Processing Society · CMRIT / IEEE Bangalore Section**
+### 01. ResearchAI
+**AI-Powered Research Assistant**
 
-<text>September 2026</text>
+An AI research platform designed to support academic research workflows through LLM-powered processing, retrieval and document generation.
 
-### 🥉 3rd Place — IEEE Project Ideathon
+- Multi-agent architecture for research-oriented workflows.
+- Retrieval-Augmented Generation for information processing.
+- Automated academic content generation.
+- Long-form document generation, including documents exceeding 20,000 words.
+- Local LLM inference using Ollama.
 
-**IEEE CAS Society · RNS Institute of Technology**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React and Node.js"/>
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_AI-263238?style=flat-square" alt="Multi-Agent AI"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
 
-- Team: **Unknown Error**
-- Project: **Smart Campus Saver**
+### 02. Intelligent Cybersecurity Decision Support System
+**Network Intrusion Detection & Incident Analysis**
 
-### 🚀 Hackathon Participation
+An AI-assisted cybersecurity system combining network traffic analysis, intrusion classification and intelligent incident investigation.
 
-Participated in **10+ hackathons**, collaborating on projects involving AI/ML, full-stack development, IoT and problem-solving.
+- Network traffic analysis using the TON_IoT dataset.
+- Binary anomaly detection and multiclass intrusion classification.
+- Comparative evaluation of classical ML and deep learning models.
+- Model performance analysis and visualization.
+- LangGraph-based incident analysis workflow.
+- Local Qwen integration through Ollama.
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python and PyTorch"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
 
-## 🚀 Featured Projects
+### 03. AgroDetect AI
+**Computer Vision for Agricultural Intelligence**
 
-### 🧠 ResearchAI
-**AI Research Assistant**
+An agricultural AI platform designed to identify plant diseases and provide relevant treatment guidance.
 
-An AI-powered research platform designed to support academic research, information processing and long-form content generation.
+- Plant disease classification using EfficientNet.
+- YOLO-based computer vision capabilities.
+- Image-based disease analysis.
+- AI-assisted treatment recommendations.
+- Historical analysis and IoT monitoring support.
 
-**Highlights**
-- Multi-agent LLM pipeline
-- RAG-based information retrieval
-- Research-oriented AI workflows
-- Academic content generation
-- Long-form document generation (20,000+ words)
-- Local LLM inference using Ollama
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flask,pytorch" alt="AgroDetect technology stack"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/EfficientNet-4B8BBE?style=flat-square" alt="EfficientNet"/>
+</p>
 
-**Tech Stack:** React · Node.js · RAG · Multi-Agent AI · Ollama · LLMs
+### 04. RiceAI
+**Rice Grain Quality Assessment**
 
----
+A computer vision platform for rice grain analysis, quality assessment and agricultural decision support.
 
-### 🛡️ Intelligent Cybersecurity Decision Support System
-**AI-Based Network Intrusion Detection & Analysis**
+- Grain segmentation using YOLO.
+- Classification using EfficientNet-B0.
+- Grain health assessment and quality grading.
+- Shelf-life estimation and storage recommendations.
+- Market information and downloadable PDF reports.
+- AI-assisted agricultural guidance.
 
-A cybersecurity system combining machine learning and LLM-based analysis to identify network threats and assist with incident investigation.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,react,nodejs" alt="RiceAI technology stack"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/EfficientNet-4B8BBE?style=flat-square" alt="EfficientNet"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+</p>
 
-**Highlights**
-- TON_IoT dataset processing and preprocessing
-- Binary anomaly detection and multiclass intrusion classification
-- Classical ML and deep learning model benchmarking
-- Confusion matrices and performance evaluation
-- LangGraph-based incident analysis workflow
-- Local Qwen inference through Ollama
-
-**Tech Stack:** Python · PyTorch · Machine Learning · LangGraph · Ollama
-
----
-
-### 🌾 AgroDetect AI
-**Plant Disease Detection & Agricultural Intelligence**
-
-An AI-powered agricultural platform for identifying plant diseases and providing relevant treatment guidance.
-
-**Highlights**
-- Leaf image analysis and disease classification
-- EfficientNet-based classification
-- YOLO-based computer vision
-- AI-generated treatment recommendations
-- Historical analytics
-- IoT monitoring support
-
-**Tech Stack:** MongoDB · Express.js · React.js · Node.js · Flask · PyTorch · EfficientNet · YOLOv8 · Ollama
-
----
-
-### 🍚 RiceAI
-**Rice Grain Quality Analysis**
-
-A computer vision-based platform for rice grain analysis, quality assessment and agricultural recommendations.
-
-**Highlights**
-- Rice grain detection and segmentation
-- YOLO segmentation and EfficientNet-B0 classification
-- Rice health scoring and quality grading
-- Market-price information
-- Shelf-life estimation and storage recommendations
-- AI-generated guidance and PDF reports
-- Optional IoT integration
-
-**Tech Stack:** YOLO · EfficientNet · Computer Vision · LangChain · Ollama · Full Stack
-
----
-
-### 🧬 SkinCare AI
+### 05. SkinCare AI
 **Image-Based Skin Condition Analysis**
 
-An AI-powered platform focused on image classification and skin-condition analysis.
+An AI-assisted image classification platform exploring deep learning applications in dermatological image analysis.
 
-**Highlights**
-- EfficientNet-B4-based image classification
-- CNN-based image processing
-- Multi-image scan sessions
-- AI-generated analysis and guidance
-- Scan history and patient records
+- Image classification using EfficientNet-B4.
+- CNN-based image processing.
+- Multi-image scan sessions.
+- AI-assisted informational analysis and guidance.
+- Patient and scan history management.
 
-**Tech Stack:** EfficientNet-B4 · CNN · Deep Learning · LLMs · Full Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Python and PyTorch"/>
+  <img src="https://img.shields.io/badge/EfficientNet--B4-4B8BBE?style=flat-square" alt="EfficientNet-B4"/>
+  <img src="https://img.shields.io/badge/CNN-263238?style=flat-square" alt="CNN"/>
+</p>
 
----
-
-### 🛰️ OrbitalX
+### 06. OrbitalX
 **Satellite Simulation & Collision Monitoring**
 
-A satellite simulation platform combining 3D visualization, orbital calculations and real-time telemetry.
+A real-time satellite simulation platform combining 3D visualization, orbital calculations and multi-service application architecture.
 
-**Highlights**
-- 3D satellite visualization and simulation
-- Orbital telemetry processing
-- Collision monitoring
-- Maneuver scheduling
-- Orbital calculations
-- Real-time Socket.IO communication
-- Multi-service architecture
+- Interactive 3D satellite visualization.
+- Orbital telemetry processing.
+- Collision monitoring and maneuver scheduling.
+- Real-time communication using Socket.IO.
+- Multi-service application architecture.
 
-**Tech Stack:** React · Three.js · Node.js · Express.js · Socket.IO · MongoDB · Python · FastAPI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,threejs,nodejs,express,mongodb,python,fastapi" alt="OrbitalX technology stack"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+</p>
 
----
-
-### 💰 BudgetWise
+### 07. BudgetWise
 **Personal Finance & Investment Management**
 
-A full-stack financial management platform for tracking expenses, budgets, savings and investments.
+A full-stack financial management application designed to organize personal finances and provide analytical insights.
 
-**Highlights**
-- Expense and transaction management
-- Budget tracking and savings goals
-- Portfolio and investment tracking
-- Financial analytics
-- AI-powered financial assistant
+- Expense and budget management.
+- Savings goals and transaction analytics.
+- Portfolio and investment tracking.
+- Financial insights and AI-assisted assistance.
 
-**Tech Stack:** Full Stack · Flask · MongoDB · SQLite · AI
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,mongodb,sqlite" alt="BudgetWise technology stack"/>
+</p>
+
+### 08. AI Learning Companion
+**Personalized AI-Powered Learning Platform**
+
+An interactive learning platform designed to support personalized education through LLM-powered tutoring.
+
+- Conversational AI tutoring.
+- Local LLM integration.
+- Automated quiz generation and feedback.
+- Learning goals and progress tracking.
+- Learning analytics and multi-subject support.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="AI Learning Companion technology stack"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
 
 ---
 
-### 🎓 AI Learning Companion
-**Personalized AI Tutoring Platform**
+## Achievements & Recognition
 
-An interactive learning platform designed to support personalized learning through LLM-powered assistance.
-
-**Highlights**
-- AI-powered chat tutor
-- Local LLM integration
-- AI-generated quizzes and feedback
-- Learning goals and progress tracking
-- Learning analytics
-- Multi-subject support
-
-**Tech Stack:** MERN · Ollama · LLMs · AI
-
----
-
-## 🔬 Areas of Interest
-
-| Domain | Focus Areas |
+| Recognition | Achievement |
 |:--|:--|
-| 🛡️ Cybersecurity | Intrusion Detection, Anomaly Detection, Threat Analysis |
-| 🌾 Agriculture | Plant Disease Detection, Rice Analysis, Agricultural AI |
-| 🏥 Healthcare | Medical Image Analysis, Classification, Edge AI |
-| 🎓 Education | AI Tutoring, Learning Analytics, Risk Prediction |
-| 🛰️ Space Technology | Satellite Simulation, Collision Monitoring, Orbital Analysis |
-| 💰 FinTech | Personal Finance, Portfolio Management, Investment Analytics |
+| Signal Quest Hackathon — IEEE Signal Processing Society, CMRIT / IEEE Bangalore Section | 🥇 **1st Position** |
+| IEEE Project Ideathon — IEEE CAS Society, RNSIT | 🥉 **3rd Place** |
+| Hackathon Participation | **10+ Events** |
+
+**Project Recognition:** Smart Campus Saver — Team Unknown Error.
 
 ---
 
-## 🧠 AI & Engineering Focus
+## Research & Technical Interests
 
-```text
-Machine Learning
-       ↓
-Deep Learning
-       ↓
-Computer Vision
-       ↓
-Generative AI & LLMs
-       ↓
-Retrieval-Augmented Generation
-       ↓
-Multi-Agent Systems
-       ↓
-Intelligent Full-Stack Applications
-```
-
-My focus is on combining models, data processing, backend services and user-facing applications into complete systems.
+- **Artificial Intelligence:** Machine Learning, Deep Learning, Explainable AI.
+- **Computer Vision:** Image Classification, Object Detection, Segmentation.
+- **Generative AI:** LLMs, RAG, Agentic Workflows, Multi-Agent Architectures.
+- **Cybersecurity:** Intrusion Detection, Anomaly Detection, Incident Analysis.
+- **Agriculture:** Plant Disease Detection, Grain Analysis, IoT.
+- **Healthcare:** Medical Image Analysis and AI-Assisted Applications.
+- **Space Technology:** Satellite Simulation and Orbital Analysis.
+- **FinTech & Education:** Financial Analytics, Intelligent Tutoring and Learning Analytics.
 
 ---
 
-## 📊 GitHub Statistics
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-022&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-022&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+Building stronger foundations in AI engineering and software systems, with particular attention to:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ritesh-022&theme=tokyonight&hide_border=true" />
-</p>
+- LLM application architecture and evaluation.
+- Reliable RAG and multi-agent workflows.
+- Open-source and locally hosted language models.
+- Model performance and inference optimization.
+- Backend engineering and AI integration.
+- Developing maintainable, end-to-end intelligent applications.
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-022&theme=tokyo-night&hide_border=true" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ritesh-022/Ritesh-022/output/ocean.gif" alt="Contribution Snake" />
-</p>
+My objective is to bridge the gap between AI experimentation and practical engineering — building systems that are not only intelligent, but also useful, reliable and maintainable.
 
 ---
 
-## 📌 Current Focus
+## Connect With Me
 
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Deep Learning
-        ├── Computer Vision
-        ├── Generative AI
-        ├── RAG & LLM Applications
-        └── Multi-Agent Systems
-                │
-                ▼
-       Full-Stack Engineering
-                │
-                ▼
-      Practical Intelligent Systems
-```
-
-Currently exploring ways to build better AI applications by combining model capabilities with reliable data pipelines, backend architecture and usable interfaces.
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/Ritesh-022">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/ritesh-b-m-1b6587340/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rithesh22102006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Build things. Understand them. Make them better."</i>
-</p>
-
-<p align="center">
-  Thanks for visiting! ⭐
+  <i>Engineering intelligent systems through research, experimentation and software development.</i>
 </p>
