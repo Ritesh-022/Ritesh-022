@@ -318,7 +318,7 @@ My focus is on combining models, data processing, backend services and user-faci
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritesh-022/Ritesh-022/output/ocean.gif" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Ritesh-022/Ritesh-022/output/ocean.gif" alt="Contribution Snake" />
 </p>
 
 ---
