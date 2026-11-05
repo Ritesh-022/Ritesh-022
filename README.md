@@ -1,438 +1,371 @@
 # Hi 👋, I'm Ritesh B M
 
-### AI/ML Engineer • Full-Stack Developer • Generative AI Builder
+### AI/ML Engineer · Full-Stack Developer · Generative AI
 
-Computer Science undergraduate at **RNS Institute of Technology** passionate about building **AI-powered applications, intelligent systems, and full-stack solutions**.
+Computer Science undergraduate at **RNS Institute of Technology**, interested in building AI/ML applications and full-stack systems that solve practical problems.
 
-I work across **Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, RAG, Multi-Agent Systems, and Full-Stack Development**.
+My work spans **Machine Learning, Deep Learning, Computer Vision, Generative AI, RAG, Multi-Agent Systems, and Full-Stack Development**.
+
+<p align="center">
+  <a href="https://github.com/Ritesh-022">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-b-m-1b6587340/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rithesh22102006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-* 🎓 B.E. Computer Science Engineering @ **RNS Institute of Technology**
-* 🏆 **1st Position – Signal Quest Hackathon**
-* 🥉 **3rd Place – IEEE Project Ideathon**
-* 🚀 Participated in **10+ hackathons**
-* 🤖 Building AI/ML and Generative AI applications
-* 🌐 Developing full-stack applications using the **MERN stack**
-* 🧠 Exploring **RAG, Multi-Agent AI, LangChain, LangGraph and Local LLMs**
-* 👁️ Working with **Computer Vision, YOLO and EfficientNet**
-* 🔬 Interested in applied AI research and intelligent systems
+- 🎓 Pursuing B.E. in Computer Science Engineering at **RNS Institute of Technology**
+- 🥇 **1st Position — Signal Quest Hackathon**
+- 🥉 **3rd Place — IEEE Project Ideathon**
+- 🚀 Participated in **10+ hackathons**
+- 🤖 Building applications around Machine Learning, Computer Vision and Generative AI
+- ⚙️ Developing full-stack applications with the MERN ecosystem
+- 🧩 Exploring RAG pipelines, AI agents and multi-agent workflows
+- 🔬 Interested in applied AI, intelligent automation and real-world engineering problems
+
+I enjoy working across the stack — from training and evaluating models to building the APIs, data pipelines and interfaces that make them useful.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css" />
-</p>
-
-### 🌐 Full-Stack Development
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,c,html,css" />
 </p>
 
-**Technologies:**
-React.js • Node.js • Express.js • MERN • REST APIs • Socket.IO • Vite • Tailwind CSS • Three.js
+### Full-Stack Development
 
-### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,fastapi,vite,tailwind" />
+</p>
+
+`MERN Stack` · `REST APIs` · `Socket.IO` · `Three.js` · `Vite` · `Tailwind CSS`
+
+### Artificial Intelligence & Machine Learning
 
 **Machine Learning**
 
-* Classical Machine Learning
-* Decision Trees
-* Random Forest
-* Extra Trees
-* XGBoost
-* LightGBM
-* Anomaly Detection
+- Classical ML · Decision Trees · Random Forest
+- Extra Trees · XGBoost · LightGBM
+- Anomaly Detection · Model Evaluation
 
 **Deep Learning**
 
-* CNN
-* MLP
-* LSTM
-* GRU
-* CNN-LSTM
-* Autoencoders
-* EfficientNet
+- CNN · MLP · LSTM · GRU
+- CNN-LSTM · Autoencoders
+- EfficientNet · PyTorch
 
 **Computer Vision**
 
-* YOLOv8
-* Image Classification
-* Object Detection
-* Image Segmentation
-* EfficientNet
+- YOLOv8 · Object Detection
+- Image Classification · Image Segmentation
+- Image Processing · EfficientNet
 
-### 🧠 Generative AI
+### Generative AI & Agentic Systems
 
-* Ollama
-* LLaMA
-* Qwen
-* LangChain
-* LangGraph
-* RAG
-* Multi-Agent AI
-* AI Agents
-* Local / Offline LLMs
-* LLM-based Applications
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain · LangGraph
+- Multi-Agent Systems · AI Agents
+- Ollama · LLaMA · Qwen
+- Local LLM Inference · Tool-based Workflows
 
-### 🗄️ Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" />
 </p>
 
-### ⚙️ DevOps & Tools
+### DevOps & Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,vscode" />
 </p>
 
-* Docker
-* Docker Compose
-* GitHub Actions
-* Trivy
-* CodeQL
-* npm Audit
-* Dependabot
+`Docker Compose` · `GitHub Actions` · `Trivy` · `CodeQL` · `npm Audit` · `Dependabot`
 
-### 🔌 IoT / Embedded
+### IoT & Embedded Systems
 
-* ESP32
-* Arduino
-* HX711 Load Cells
-* IoT Sensors
-* Edge AI
+- ESP32 · Arduino
+- HX711 Load Cells
+- IoT Sensors · Edge AI
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 ### 🥇 1st Position — Signal Quest Hackathon
 
-**IEEE Signal Processing Society, CMRIT / IEEE Bangalore Section**
+**IEEE Signal Processing Society · CMRIT / IEEE Bangalore Section**
 
-September 2026
+<text>September 2026</text>
 
----
+### 🥉 3rd Place — IEEE Project Ideathon
 
-### 🥉 3rd Place — Project Ideathon
+**IEEE CAS Society · RNS Institute of Technology**
 
-**IEEE CAS Society, RNS Institute of Technology**
+- Team: **Unknown Error**
+- Project: **Smart Campus Saver**
 
-Team: **Unknown Error**
+### 🚀 Hackathon Participation
 
-Project: **Smart Campus Saver**
-
----
-
-### 🚀 Hackathons
-
-Participated in **10+ hackathons**, working on AI/ML, full-stack, IoT and problem-solving based projects.
+Participated in **10+ hackathons**, collaborating on projects involving AI/ML, full-stack development, IoT and problem-solving.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 ResearchAI
+### 🧠 ResearchAI
+**AI Research Assistant**
 
-### AI Research Assistant
+An AI-powered research platform designed to support academic research, information processing and long-form content generation.
 
-An AI-powered research assistant designed to automate academic research and content generation.
+**Highlights**
+- Multi-agent LLM pipeline
+- RAG-based information retrieval
+- Research-oriented AI workflows
+- Academic content generation
+- Long-form document generation (20,000+ words)
+- Local LLM inference using Ollama
 
-**Key Features**
-
-* Multi-agent LLM pipeline
-* Research-oriented AI workflows
-* RAG-based information processing
-* Academic content generation
-* 20,000+ word document generation
-* Local LLM inference using Ollama
-
-**Tech:** React • Node.js • LLMs • Multi-Agent AI • RAG • Ollama
+**Tech Stack:** React · Node.js · RAG · Multi-Agent AI · Ollama · LLMs
 
 ---
 
-## 🛡️ Intelligent Cybersecurity Decision Support System
+### 🛡️ Intelligent Cybersecurity Decision Support System
+**AI-Based Network Intrusion Detection & Analysis**
 
-AI-powered cybersecurity system for network intrusion detection and incident analysis.
+A cybersecurity system combining machine learning and LLM-based analysis to identify network threats and assist with incident investigation.
 
-**Key Features**
+**Highlights**
+- TON_IoT dataset processing and preprocessing
+- Binary anomaly detection and multiclass intrusion classification
+- Classical ML and deep learning model benchmarking
+- Confusion matrices and performance evaluation
+- LangGraph-based incident analysis workflow
+- Local Qwen inference through Ollama
 
-* TON IoT dataset processing
-* Network traffic preprocessing
-* Multiclass intrusion classification
-* Binary anomaly detection
-* Classical ML and deep-learning models
-* Model benchmarking
-* Confusion matrices and evaluation
-* Incident-analysis agent
-* LangGraph workflow
-* Local Qwen through Ollama
-
-**Tech:** Python • PyTorch • Machine Learning • LangGraph • Ollama
+**Tech Stack:** Python · PyTorch · Machine Learning · LangGraph · Ollama
 
 ---
 
-## 🌾 AgroDetect AI
+### 🌾 AgroDetect AI
+**Plant Disease Detection & Agricultural Intelligence**
 
-### Plant Disease Detection System
+An AI-powered agricultural platform for identifying plant diseases and providing relevant treatment guidance.
 
-AI-powered agricultural platform for plant disease detection and treatment guidance.
+**Highlights**
+- Leaf image analysis and disease classification
+- EfficientNet-based classification
+- YOLO-based computer vision
+- AI-generated treatment recommendations
+- Historical analytics
+- IoT monitoring support
 
-**Key Features**
-
-* Leaf image analysis
-* Plant disease classification
-* EfficientNet
-* YOLO-based computer vision
-* AI-generated treatment recommendations
-* Historical analytics
-* IoT monitoring support
-
-**Tech:** MongoDB • Express.js • React.js • Node.js • Flask • PyTorch • EfficientNet • YOLOv8 • Ollama
+**Tech Stack:** MongoDB · Express.js · React.js · Node.js · Flask · PyTorch · EfficientNet · YOLOv8 · Ollama
 
 ---
 
-## 🍚 RiceAI
+### 🍚 RiceAI
+**Rice Grain Quality Analysis**
 
-### Rice Grain Quality Analysis
+A computer vision-based platform for rice grain analysis, quality assessment and agricultural recommendations.
 
-AI-powered rice analysis platform combining computer vision, quality assessment and agricultural intelligence.
+**Highlights**
+- Rice grain detection and segmentation
+- YOLO segmentation and EfficientNet-B0 classification
+- Rice health scoring and quality grading
+- Market-price information
+- Shelf-life estimation and storage recommendations
+- AI-generated guidance and PDF reports
+- Optional IoT integration
 
-**Key Features**
-
-* Rice-grain image analysis
-* YOLO segmentation
-* EfficientNet-B0 classification
-* Rice health scoring
-* Quality grading
-* Market-price information
-* Shelf-life estimation
-* Storage recommendations
-* AI-generated guidance
-* PDF reports
-* Optional IoT integration
-
-**Tech:** YOLO • EfficientNet • Computer Vision • LangChain • Ollama • Full Stack
+**Tech Stack:** YOLO · EfficientNet · Computer Vision · LangChain · Ollama · Full Stack
 
 ---
 
-## 🧬 SkinCare AI
+### 🧬 SkinCare AI
+**Image-Based Skin Condition Analysis**
 
-### Dermatology Assistance Platform
+An AI-powered platform focused on image classification and skin-condition analysis.
 
-AI-powered platform for image-based skin-condition classification and analysis.
+**Highlights**
+- EfficientNet-B4-based image classification
+- CNN-based image processing
+- Multi-image scan sessions
+- AI-generated analysis and guidance
+- Scan history and patient records
 
-**Key Features**
-
-* Skin image classification
-* EfficientNet-B4
-* CNN-based processing
-* Multi-image scan sessions
-* AI-generated analysis
-* Treatment and prevention guidance
-* Patient and scan history
-
-**Tech:** EfficientNet-B4 • CNN • LLMs • Full Stack
+**Tech Stack:** EfficientNet-B4 · CNN · Deep Learning · LLMs · Full Stack
 
 ---
 
-## 🛰️ OrbitalX
+### 🛰️ OrbitalX
+**Satellite Simulation & Collision Monitoring**
 
-### Satellite Simulation & Collision Monitoring
+A satellite simulation platform combining 3D visualization, orbital calculations and real-time telemetry.
 
-Real-time satellite simulation and collision-monitoring platform.
+**Highlights**
+- 3D satellite visualization and simulation
+- Orbital telemetry processing
+- Collision monitoring
+- Maneuver scheduling
+- Orbital calculations
+- Real-time Socket.IO communication
+- Multi-service architecture
 
-**Key Features**
-
-* 3D satellite simulation
-* Orbital telemetry processing
-* Collision monitoring
-* Maneuver scheduling
-* Real-time Socket.IO communication
-* Orbital calculations
-* Multi-service architecture
-
-**Tech:** React • Three.js • Node.js • Express • Socket.IO • MongoDB • Python • FastAPI
+**Tech Stack:** React · Three.js · Node.js · Express.js · Socket.IO · MongoDB · Python · FastAPI
 
 ---
 
-## 💰 BudgetWise
+### 💰 BudgetWise
+**Personal Finance & Investment Management**
 
-### AI Personal Finance Platform
+A full-stack financial management platform for tracking expenses, budgets, savings and investments.
 
-Full-stack personal finance and investment management platform.
+**Highlights**
+- Expense and transaction management
+- Budget tracking and savings goals
+- Portfolio and investment tracking
+- Financial analytics
+- AI-powered financial assistant
 
-**Key Features**
-
-* Expense management
-* Budget tracking
-* Savings goals
-* Portfolio tracking
-* Transaction analytics
-* Investment management
-* Financial insights
-* AI financial assistant
-
-**Tech:** Full Stack • Flask • MongoDB / SQLite • AI
+**Tech Stack:** Full Stack · Flask · MongoDB · SQLite · AI
 
 ---
 
-## 🎓 AI Learning Companion
+### 🎓 AI Learning Companion
+**Personalized AI Tutoring Platform**
 
-Personalized AI tutoring platform designed for interactive learning.
+An interactive learning platform designed to support personalized learning through LLM-powered assistance.
 
-**Key Features**
+**Highlights**
+- AI-powered chat tutor
+- Local LLM integration
+- AI-generated quizzes and feedback
+- Learning goals and progress tracking
+- Learning analytics
+- Multi-subject support
 
-* AI chat tutor
-* Local LLM integration
-* AI-generated quizzes
-* Instant feedback
-* Learning goals
-* Progress tracking
-* Learning analytics
-* Multi-subject support
-
-**Tech:** MERN • Ollama • LLMs • AI
+**Tech Stack:** MERN · Ollama · LLMs · AI
 
 ---
 
-# 🔬 Areas I Work In
+## 🔬 Areas of Interest
 
-### 🛡️ Cybersecurity
-
-* Network Intrusion Detection
-* Anomaly Detection
-* Threat Correlation
-* Cybersecurity Decision Support
-* AI-assisted Incident Analysis
-
-### 🌾 Agriculture
-
-* Plant Disease Detection
-* Rice Grain Analysis
-* Computer Vision
-* IoT Monitoring
-* Agricultural AI
-
-### 🏥 Healthcare
-
-* Medical Image Analysis
-* Skin Disease Detection
-* Edge AI
-* Clinical Decision Support
-* Healthcare Intelligence
-
-### 🎓 Education
-
-* Academic Risk Prediction
-* AI Tutoring
-* Learning Analytics
-* Explainable AI
-
-### 🛰️ Space Technology
-
-* Space Weather Forecasting
-* Satellite Simulation
-* Collision Monitoring
-* Orbital Analysis
-* Radiation Risk Prediction
-
-### 💰 FinTech
-
-* Personal Finance
-* Portfolio Management
-* Investment Analytics
-* AI Financial Assistance
+| Domain | Focus Areas |
+|:--|:--|
+| 🛡️ Cybersecurity | Intrusion Detection, Anomaly Detection, Threat Analysis |
+| 🌾 Agriculture | Plant Disease Detection, Rice Analysis, Agricultural AI |
+| 🏥 Healthcare | Medical Image Analysis, Classification, Edge AI |
+| 🎓 Education | AI Tutoring, Learning Analytics, Risk Prediction |
+| 🛰️ Space Technology | Satellite Simulation, Collision Monitoring, Orbital Analysis |
+| 💰 FinTech | Personal Finance, Portfolio Management, Investment Analytics |
 
 ---
 
-# 🧠 AI Focus
+## 🧠 AI & Engineering Focus
 
 ```text
 Machine Learning
-      ↓
+       ↓
 Deep Learning
-      ↓
+       ↓
 Computer Vision
-      ↓
-Generative AI
-      ↓
-RAG
-      ↓
-Multi-Agent AI
-      ↓
-Intelligent Full-Stack Systems
+       ↓
+Generative AI & LLMs
+       ↓
+Retrieval-Augmented Generation
+       ↓
+Multi-Agent Systems
+       ↓
+Intelligent Full-Stack Applications
 ```
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-022&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-022&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-022&theme=tokyonight&hide_border=true"/>
-</p>
+My focus is on combining models, data processing, backend services and user-facing applications into complete systems.
 
 ---
 
-# 📌 Current Focus
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-022&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-022&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ritesh-022&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-022&theme=tokyo-night&hide_border=true" />
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritesh-022/Ritesh-022/output/ocean.gif" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 📌 Current Focus
 
 ```text
-AI / ML
-   │
-   ├── Computer Vision
-   ├── Generative AI
-   ├── RAG
-   ├── Multi-Agent Systems
-   └── Explainable AI
+Artificial Intelligence
         │
-        ▼
-Full-Stack AI Applications
-        │
-        ▼
-Real-World Intelligent Systems
+        ├── Machine Learning
+        ├── Deep Learning
+        ├── Computer Vision
+        ├── Generative AI
+        ├── RAG & LLM Applications
+        └── Multi-Agent Systems
+                │
+                ▼
+       Full-Stack Engineering
+                │
+                ▼
+      Practical Intelligent Systems
 ```
 
-Currently focusing on building **practical AI systems that combine models, data, backend infrastructure and usable interfaces into complete applications.**
+Currently exploring ways to build better AI applications by combining model capabilities with reliable data pipelines, backend architecture and usable interfaces.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<p align="left">
-
-<a href="https://github.com/Ritesh-022">
-<img src="https://img.shields.io/badge/GitHub-Ritesh--022-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ritesh-b-m-1b6587340/">
-<img src="https://img.shields.io/badge/LinkedIn-Ritesh%20B%20M-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:rithesh22102006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/Ritesh-022">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-b-m-1b6587340/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rithesh22102006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💭 Philosophy
+<p align="center">
+  <i>"Build things. Understand them. Make them better."</i>
+</p>
 
-> **"Build it. Understand it. Improve it. Then make it useful."**
-
-Thanks for visiting my profile! ⭐
-
-Feel free to explore my repositories and projects.
+<p align="center">
+  Thanks for visiting! ⭐
+</p>
